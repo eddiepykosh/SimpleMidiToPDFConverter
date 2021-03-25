@@ -18,3 +18,6 @@ Probably will crash because of missing Python libraries but god if I know what t
 TODO abandon LilyPond
 
 LilyPond Download - http://lilypond.org/download.html
+
+
+TLDR: Looks GREAT when it works, but HORRIBLE when it does not
