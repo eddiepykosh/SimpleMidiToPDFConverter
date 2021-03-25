@@ -5,7 +5,7 @@ Currently very poorly converts midi to pdfs as lilypond does not do a good job o
 
 TODO abandon LilyPond
 
-Theres a .7z file above with the .exe 
+Download: https://github.com/eddiepykosh/SimpleMidiToPDFConverter/raw/master/Alpha%20v1.7z
 Heres's the descriptions:
 Probably will crash because of missing Python Libraries but god if I know what those libraries are.  (If you install LilyPond or have LilyPond installed you'll probably be fine)
 
